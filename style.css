@@ -1,0 +1,50 @@
+h1,h2{
+    text-align: center;
+    font-size: 60px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: center;
+}
+
+button{
+    display: block;
+    padding: auto;
+    margin: auto;
+    float: center;
+}
+
+#div3{
+    text-align: center;
+    background-color: rgba(240, 220, 108, 0.3);
+}
+
+#div{
+    text-align: center;
+    background-color: rgba(240, 220, 108, 0.3);
+}
+
+#p1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    background-color: green;
+}
+
+footer{
+   color: white 
+}
+
+
+header{
+    background-image: url(https://www.sequimgazette.com/wp-content/uploads/2018/02/10460417_web1_T-rchobbiesclosing1mn2718.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 400px;
+}
+
+#p3{
+    text-align: center;
+    background-color: rgba(240, 220, 108, 0.3);
+}
